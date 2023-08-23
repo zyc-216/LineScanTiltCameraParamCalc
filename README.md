@@ -1,2 +1,3 @@
 # LineScanTiltCameraParamCalc
-Calculate params like Scheimpflug Angle,Cam Fov and cam resolution. Based on Qt. Results-visualization.
+Calculate params like Scheimpflug Angle,Cam Fov and cam resolution. Based on Qt. Results-visualization. C++.
+OS:Windows
